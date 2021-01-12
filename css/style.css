@@ -1,0 +1,13 @@
+button{
+margin-top:45vh;
+margin-left:55vh;
+padding:35px;
+width:350px;
+/* Font Styling */
+font-size:30px;
+font-weight:bold;
+background-color:green;
+color:#fff;
+cursor: pointer;
+
+}
